@@ -1,6 +1,6 @@
 def main():
     #escribe tu código abajo de esta línea
-    n = int(input("Dame el valor de n:"))
+    n = int(input('Dame el valor de n:'))
 
     for i in range(1,n+1):
         print(i, end=', ')
